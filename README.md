@@ -1,6 +1,6 @@
 # MMSP 2026 個人作業（MP1–MP5）
 
-![mp-ci](https://github.com/OWNER/REPO/actions/workflows/mp-ci.yml/badge.svg)
+![mp-ci](https://github.com/s411386019@gm.ntpu.edu.tw/mmsp2026/actions/workflows/mp-ci.yml/badge.svg)
 
 <!-- 把上一行的 OWNER/REPO 換成你的 GitHub 帳號與 repo 名稱，徽章就會顯示最新 CI 結果 -->
 
